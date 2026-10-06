@@ -43,6 +43,8 @@ Student-built autonomous underwater vehicles. I'm on the robotics software side 
 | --- | --- | --- |
 | 🗺️ | **[sg-population-atlas](https://github.com/my-usernamee/sg-population-atlas)** · [live](https://sg-population-atlas.vercel.app) | Interactive map of Singapore's population, land use and amenities by subzone. |
 | ☀️ | **[shady](https://github.com/my-usernamee/shady)** | Chrome extension that tells you which side of the bus to sit on so the sun isn't in your face. |
+| 🧠 | **[imagedeblur](https://github.com/my-usernamee/imagedeblur)** | PyTorch 3-stage U-Net for motion-deblurring, with supervised attention (Sobel edge guidance) and cross-stage feature fusion. Trained on GoPro. |
+| 🏆 | **[hackx](https://github.com/my-usernamee/hackx)** | Hackathon project (Python). |
 | 🔤 | **[wordle](https://github.com/my-usernamee/wordle)** | Terminal solver that picks guesses by information gain. Ran 300 million calculations to find the best opener. |
 | 🧳 | **[sc2006](https://github.com/my-usernamee/sc2006)** | FoundIt, a full-stack lost-and-found app (React, Express, Postgres). |
 | 🌐 | **[portfolio](https://github.com/my-usernamee/portfolio)** · [live](https://hari-sepia-iota.vercel.app) | Next.js, Tailwind, Motion. Source for the site above. |
