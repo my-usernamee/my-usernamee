@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/hari-dots.svg" width="220" alt="Hari, as a halftone portrait" />
-
 # hey, i'm hari
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=0F766E&center=true&vCenter=true&width=520&lines=I+make+robots+race.;I+make+robots+swim.;I+build+random+things+that+seem+interesting.)](https://hari-sepia-iota.vercel.app)
