@@ -1,27 +1,27 @@
-<table>
-<tr>
-<td width="200" valign="top">
-<img src="assets/hari.jpg" width="200" alt="Hari" />
-</td>
-<td valign="top">
+<div align="center">
 
-# hey, i'm hari 👋
+<img src="assets/hari-dots.svg" width="220" alt="Hari, as a halftone portrait" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=0F766E&vCenter=true&width=460&lines=I+make+robots+race.;I+make+robots+swim.;I+build+random+things+that+seem+interesting.)](https://hari-sepia-iota.vercel.app)
+# hey, i'm hari
 
-Computer engineering @ **NTU**, Singapore.
-Part of **NTU DeepSpeed** (autonomous racing) and **NTU Mecatron** (autonomous underwater vehicles).
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=0F766E&center=true&vCenter=true&width=520&lines=I+make+robots+race.;I+make+robots+swim.;I+build+random+things+that+seem+interesting.)](https://hari-sepia-iota.vercel.app)
 
-### 👉 [**hari-sepia-iota.vercel.app**](https://hari-sepia-iota.vercel.app)
-*My portfolio: an F1 car drives down the page as you scroll.*
+Computer engineering @ **NTU**, Singapore<br>
+**NTU DeepSpeed** (autonomous racing) · **NTU Mecatron** (underwater vehicles)
 
-[LinkedIn](https://www.linkedin.com/in/hari-%E2%80%8E-%E2%80%8E-244b3724b) · [Writing](https://medium.com/@thisisnotmygoooglemailid) · [Resume](https://hari-sepia-iota.vercel.app/resume.pdf)
+<br>
 
-</td>
-</tr>
-</table>
+[**🌐 &nbsp;See my portfolio &nbsp;→**](https://hari-sepia-iota.vercel.app)
 
-> 🟢 Open to internships, junior roles and collabs.
+<sub>an F1 car drives down the page as you scroll</sub>
+
+<br>
+
+[LinkedIn](https://www.linkedin.com/in/hari-%E2%80%8E-%E2%80%8E-244b3724b) &nbsp;·&nbsp; [Writing](https://medium.com/@thisisnotmygoooglemailid) &nbsp;·&nbsp; [Resume](https://hari-sepia-iota.vercel.app/resume.pdf)
+
+🟢 *Open to internships, junior roles and collabs*
+
+</div>
 
 ---
 
